@@ -64,17 +64,24 @@ life-skills/
 
 ## Status
 
-🚧 **Phase 1: Foundation** (In Progress)
-- [ ] Repository structure
-- [ ] Meta-skills
-- [ ] Documentation
+✅ **Phase 1: Foundation** (Complete)
+- ✓ Repository structure
+- ✓ Meta-skills (using-life-skills, creating-life-skills)
+- ✓ Documentation
 
-📋 **Phase 2: Core Skills** (Planned)
-- High-frequency skills (weekly-review, daily-shutdown, self-connection)
-- High-impact interpersonal (nvc-conversation, active-listening)
-- Creative/work workflows (brainstorming, decision-making)
+✅ **Phase 2: Core Skills** (Complete)
 
-🧪 **Phase 3: Testing** (Planned)
+**Implemented skills (6):**
+- `business:weekly-review` - GTD-based weekly planning and reflection
+- `business:decision-making` - Strategic decision-making with pre-mortem analysis
+- `productivity:daily-shutdown` - End-of-day shutdown ritual
+- `inner:self-connection` - NVC/Focusing-based emotional processing
+- `communication:nvc-conversation` - Nonviolent Communication framework
+- `creative:brainstorming` - Structured creative ideation process
+
+All skills are grounded in established frameworks (GTD, NVC, SCAMPER, First Principles Thinking, etc.) and include actionable workflows with examples.
+
+🧪 **Phase 3: Testing** (In Progress)
 - Real-world usage validation
 - Refinement based on actual use
 
